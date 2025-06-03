@@ -1,1 +1,17 @@
+Running java file using cmd.
+// C:\Users\Your Name>javac Main.java
+// C:\Users\Your Name>java Main
+
+Declaring (Creating) Variables
+To create a variable, you must specify the type and assign it a value:
+type variableName = value;
+
+Final Variables
+If you don't want others (or yourself) to overwrite existing values, use the final keyword (this will declare the variable as "final" or "constant", which means unchangeable and read-only)
+
+int myNum = 5;
+float myFloatNum = 5.99f;
+char myLetter = 'D';
+boolean myBool = true;
+String myText = "Hello";
 
